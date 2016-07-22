@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab04_ViewPager_Flashcard</string>
+    <string name="tab_one">TAB ONE</string>
+    <string name="tab_three">TAB 03</string>
+</resources>
